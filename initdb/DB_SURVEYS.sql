@@ -20,7 +20,7 @@ CREATE TABLE USERS (
 -- Insertar usuario administrador
 INSERT INTO USERS (USERNAME, PASSWORD_HASH, ROLE) VALUES (
   'Administrador',
-  '$2y$10$8H4RAhy.NVG9xrxzzfyoFe6f2oqAblY9OYtAJecJqb.gxLSy3Rjvi',
+  'a4N5I491Srg308R6CDSD6O4cpbtRkd0kT325xEPdev0nU9H10Iu4y',
   'ADMIN'
 );
 
