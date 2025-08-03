@@ -1,0 +1,6 @@
+.env
+/vendor
+mysql/*.*
+mysql/ib*
+mysql/*/
+!mysql/.gitkeep
